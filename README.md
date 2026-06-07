@@ -1,97 +1,242 @@
-BRIDGE Scoping Review – Pandemic Prevention, Preparedness, Response & Resilience (PPPR)
-Contributor: Ashima Singh, MPH | Full-Text Screener & Data Extractor  
-Project: BRIDGE Scoping Review – Multi-Institutional Research Collaboration  
-Affiliated Institution: University of Miami  
-Timeline: January 2026 – July 2026  
-Platform: Covidence  
-Tools: Covidence · Systematic Review Methodology · Qualitative Data Extraction
+# BRIDGE Scoping Review: Regional Organizations and Pandemic Prevention, Preparedness, Response & Resilience (PPPR)
+
+**Keywords:** Scoping Review | Evidence Synthesis | Pandemic Preparedness | Public Health Policy | Global Health | Regional Governance | Covidence | Systematic Review Methods
+
+**Contributor:** Ashima Singh, MPH
+**Role:** Full-Text Screener & Data Extractor
+**Project:** BRIDGE Scoping Review – Multi-Institutional Research Collaboration
+**Affiliated Institution:** University of Miami
+**Timeline:** January 2026 – July 2026
+**Platform:** Covidence
+
 ---
-📌 Project Overview
-The BRIDGE Scoping Review is a multi-institutional research collaboration examining the roles of formal intergovernmental regional organizations (IROs) in pandemic prevention, preparedness, response, and resilience (PPPR).
-The review involved screening 10,000 titles and abstracts, from which 720 articles advanced to full-text review. Two independent reviewers assess each article for eligibility. As a contributor, my responsibilities include full-text screening against structured inclusion/exclusion criteria and systematic data extraction for included articles.
----
-🎯 Research Questions
-RQ1: What is the scope of the literature regarding the involvement of regional organizations in preventing, preparing for, and responding to infectious disease outbreaks, epidemics, and pandemics?
-RQ2: What are the factors enabling and limiting regional organizations' involvement in PPPR?
-> An article must substantively address RQ1 to be eligible for inclusion.
----
-📖 Working Definitions
-Region: A limited number of states linked by a geographical relationship and by a degree of mutual interdependence (Nye).
-Regional Organization: A formal institutional arrangement among states within a specific geographic area, created to facilitate cooperation, integration, and governance across a range of policy areas (Börzel and Risse). The regional organization may be strictly focused on infectious disease management (e.g. Africa CDC) or have broader mandates (e.g. ASEAN).
-PPPR (Pandemic Prevention, Preparedness, Response and Resilience): All efforts to prepare for and respond to current and future infectious disease threats with pandemic potential — including detection, surveillance, diagnostics, laboratory capacity, risk assessment, research, R&D, community engagement, risk communications, vaccination, vector and zoonotic control, emergency planning and coordination, clinical care, infrastructure, supply chain, and access to countermeasures.
-PHEIC (WHO IHR, 2005): An extraordinary event constituting a public health risk through international disease spread requiring coordinated international response.
-PHECS (Africa CDC statute, 2017, updated 2024): A significant event posing risk to other countries requiring immediate continental-level action.
----
-📋 Article Eligibility Criteria
-✅ Include
-Criterion	Requirement
-Language	Published in English or has an English translation
-Date	Published in 2005 or after
-Article Type	Peer-reviewed platform: original research, reviews, commentaries, dissertations, conference papers (with peer-review process), books/chapters from university press
-Availability	Full text available
-Content	Substantially discusses PPPR activities of one or more organizations governed by national governments based in a named region (e.g. Africa CDC, ASEAN)
-❌ Exclude
-Criterion	Reason
-Language	Non-English with no translation available
-Date	Published before 2005 or date unclear
-Availability	Full text not available
-Article Type	Not peer-reviewed: news articles, white papers, policy briefs, reports, OSF preprints, think tank publications
-Content – Org scope	Solely discusses UN system or international organizations larger than a region (WHO, UN, World Bank)
-Content – No IRO	Solely discusses non-intergovernmental networks or academic/professional networks
-Content – No org named	Discusses a region's efforts without naming a specific regional organization
-Content – No PPPR	Discusses PPPR elements without mention of a regional organization
-Content – Epi only	Solely discusses epidemiological trends or disease etiology without regional organization involvement
-Content – Too brief	Abstracts, slide decks, press releases
-> When two reviewers disagree, a third reviewer or group consensus determines the final decision.
----
-📊 Screening Process
-Full-Text Screening Protocol (Covidence)
-Each article follows this structured workflow:
-2-minute skim — scan sections for clear inclusion or exclusion signals
-10-minute deep read — if eligibility is unclear after initial skim
-Exclusion reason logged — first applicable reason selected from the ordered list in Covidence
-Conflict flagging — disagreements documented and escalated for third-review consensus
-Notes document maintained — Covidence ID, author(s), year, inclusion/exclusion reasoning, notable details, and emergent questions logged for each article
+
+## Evidence Synthesis Workflow
+
+```text
+Literature Search
+       ↓
+Title & Abstract Screening
+       ↓
+Full-Text Screening
+       ↓
+Eligibility Assessment
+       ↓
 Data Extraction
-Included articles are entered into a standardized extraction template by two independent analysts. Discrepancies are reviewed and reconciled into a master extraction spreadsheet for analysis and manuscript synthesis.
-The extraction template includes fields for: bibliographic details, regional organization(s), geographic scope, PPPR domain(s), governance mechanisms, enabling factors, limiting factors, IHR/PHECS references, and equity dimensions.
+       ↓
+Conflict Resolution
+       ↓
+Evidence Synthesis
+       ↓
+Manuscript Development
+```
+
 ---
-📂 Files in This Repository
-File	Description
-`inclusion_exclusion_criteria.csv`	Structured I/E criteria with decision rules and examples derived from the BRIDGE protocol
-`data_extraction_template.csv`	28-field data extraction form with field guidance
-`README.md`	Project documentation
+
+## 📌 Project Overview
+
+The BRIDGE Scoping Review is a multi-institutional research collaboration examining the role of formal intergovernmental regional organizations (IROs) in pandemic prevention, preparedness, response, and resilience (PPPR).
+
+The review evaluates how regional organizations contribute to infectious disease preparedness, outbreak response, health security governance, surveillance coordination, and resilience-building across geographic regions.
+
+From an initial pool of approximately 10,000 records, 720 articles advanced to full-text review. As a contributor to the project, I participated in full-text eligibility assessment, conflict resolution, and systematic data extraction using standardized review protocols.
+
 ---
-📅 Project Timeline
-Milestone	Dates
-Full-Text Screening	Jan 29 – Mar 26, 2026
-Pilot Data Extraction	Feb 27 – Mar 5, 2026
-Adapt Extraction Template	By Mar 26, 2026
-Conflict Resolution (ongoing)	Jan 29 – Mar 26, 2026
-Protocol Registration	By Mar 5, 2026
-Identify Target Journal(s)	By Mar 31, 2026
-Full Data Extraction	Mar 27 – Jun 18, 2026
-Analysis, Writing & Revisions	Jun 18 – Jul 29, 2026
-Manuscript Submission	By Jul 31, 2026
+
+## 🛠 Technical Skills
+
+* Scoping Reviews
+* Systematic Review Methodology
+* Evidence Synthesis
+* Covidence
+* Full-Text Screening
+* Data Extraction
+* Literature Review Methods
+* Public Health Policy Analysis
+* Research Documentation
+* Scientific Writing
+* Qualitative Evidence Coding
+* Knowledge Synthesis
+
 ---
-🤝 Contribution to This Review
-Screening 720 full-text articles against structured BRIDGE inclusion/exclusion criteria in Covidence
-Applying the 2-minute skim + 10-minute deep read protocol per article
-Documenting exclusion rationale and flagging conflicts for dual-review consensus
-Maintaining a running notes document capturing Covidence IDs, reasoning, and emergent questions
-Conducting systematic data extraction for included articles across all template fields
-Contributing to pilot data extraction and template refinement (Feb–Mar 2026)
+
+## 🎯 Research Questions
+
+### RQ1
+
+What is the scope of the literature regarding the involvement of regional organizations in preventing, preparing for, and responding to infectious disease outbreaks, epidemics, and pandemics?
+
+### RQ2
+
+What factors enable or limit the involvement of regional organizations in PPPR activities?
+
+> Articles were required to substantively address RQ1 to be eligible for inclusion.
+
 ---
-🔗 Related Resources
-PRISMA-ScR Reporting Guidelines
-Arksey & O'Malley (2005) Scoping Review Framework
-WHO IHR (2005)
-Africa CDC Statute (2017)
+
+## 👩‍🔬 My Role
+
+As a reviewer and data extractor, I was responsible for:
+
+* Conducting full-text screening using predefined eligibility criteria
+* Applying standardized inclusion and exclusion rules
+* Documenting screening decisions and exclusion rationale
+* Flagging disagreements for consensus review
+* Extracting study data using structured extraction templates
+* Contributing to pilot extraction exercises and template refinement
+* Supporting evidence synthesis and manuscript preparation activities
+
 ---
-🔒 Data Note
-Raw screening data and article extractions are housed in the BRIDGE team's secure institutional platform and are not publicly shared per multi-institutional data governance agreements.
+
+## 🌎 Public Health Competencies
+
+* Evidence Synthesis
+* Public Health Policy Analysis
+* Global Health Research
+* Pandemic Preparedness Assessment
+* Literature Screening
+* Data Extraction
+* Scientific Communication
+* Knowledge Translation
+* Research Collaboration
+* Systematic Review Methods
+
 ---
-📫 Contact
-Ashima Singh, MPH  
-📧 ashsingh2202@gmail.com  
+
+## 📂 Files in This Repository
+
+| File                               | Description                             |
+| ---------------------------------- | --------------------------------------- |
+| `screenshot`                       | Standardized extraction framework       |
+| `README.md`                        | Project documentation                   |
+
+> Full-text articles, screening decisions, and extraction files are not publicly available due to project governance and collaboration agreements.
+
+---
+
+## 📖 Key Concepts
+
+### Regional Organization
+
+Formal institutional arrangements among countries within a geographic region that facilitate cooperation, governance, and collective action.
+
+Examples include:
+
+* Africa CDC
+* ASEAN
+* CARICOM
+* European Union health coordination mechanisms
+
+### PPPR
+
+Pandemic Prevention, Preparedness, Response, and Resilience encompasses activities related to:
+
+* Disease surveillance
+* Early detection
+* Diagnostics
+* Laboratory capacity
+* Risk communication
+* Vaccination
+* Emergency planning
+* Health system resilience
+* Supply chain preparedness
+* Community engagement
+
+---
+
+## 📋 Screening Process
+
+### Full-Text Screening
+
+Each article followed a structured review workflow:
+
+1. Initial rapid assessment
+2. Detailed eligibility review when required
+3. Documentation of inclusion or exclusion decisions
+4. Conflict flagging and consensus resolution
+5. Reviewer note documentation
+
+### Conflict Resolution
+
+When reviewers disagreed on article eligibility, conflicts were reviewed by a third reviewer or through group consensus procedures.
+
+---
+
+## 📊 Data Extraction
+
+Eligible studies were reviewed using a standardized extraction template capturing:
+
+* Bibliographic information
+* Regional organization(s)
+* Geographic scope
+* PPPR domain(s)
+* Governance mechanisms
+* Enabling factors
+* Limiting factors
+* Equity considerations
+* References to international health governance frameworks
+
+Data extraction was conducted independently and reconciled through review procedures to ensure consistency and accuracy.
+
+---
+
+## 📈 Project Impact
+
+* Contributed to screening and assessment of 720 full-text articles.
+* Applied structured evidence synthesis methods to evaluate regional health governance literature.
+* Supported development of a comprehensive evidence base on pandemic preparedness and resilience.
+* Contributed to data extraction and harmonization efforts across a multi-institutional research team.
+* Supported manuscript development and future publication activities.
+
+---
+
+## 🔄 Research Translation
+
+This review aims to identify how regional organizations contribute to pandemic preparedness and response efforts, as well as barriers that limit effective regional coordination. Findings may inform future policy development, regional governance strategies, and international health security initiatives.
+
+---
+
+## 💡 Public Health Significance
+
+This project contributes to understanding:
+
+* Regional approaches to pandemic preparedness
+* International health governance structures
+* Health security coordination mechanisms
+* Cross-border disease response strategies
+* Factors influencing effective outbreak response and resilience
+
+---
+
+## 📅 Project Timeline
+
+| Milestone             | Timeline     |
+| --------------------- | ------------ |
+| Full-Text Screening   | Jan–Mar 2026 |
+| Pilot Data Extraction | Feb–Mar 2026 |
+| Template Refinement   | Mar 2026     |
+| Full Data Extraction  | Mar–Jun 2026 |
+| Analysis & Writing    | Jun–Jul 2026 |
+| Manuscript Submission | Jul 2026     |
+
+---
+
+## 🤝 Research Collaboration
+
+This project is part of a multi-institutional collaboration involving researchers working across evidence synthesis, public health policy, global health governance, and pandemic preparedness research.
+
+---
+
+## 🔒 Data Availability
+
+Raw screening data, reviewer decisions, and article extractions are maintained within secure institutional systems and are not publicly shared in accordance with project governance agreements.
+
+---
+
+## 📫 Contact
+
+**Ashima Singh, MPH**
+
+📧 [ashsingh2202@gmail.com](mailto:ashsingh2202@gmail.com)
+
 🔗 linkedin.com/in/ashimasingh-mph
